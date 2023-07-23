@@ -1,0 +1,18 @@
+Analyse Network Layer Communication
+
+
+Part 1: Provide a summary of the problem found in the DNS and ICMP
+traffic log
+
+- Line 4, where the ICMP package was undelivered to the specific port of the DNS server
+- This is shown when after the first package is sent, we receive the message “udp port 53 unreachable”
+- Port 53 is usually used for DNS protocol traffic. Seems as if the system is not responding.
+
+
+
+Part 2: Explain your analysis of the data and provide one solution to implement
+
+- Incident occurred at 1:24:36. It was reported by the several customers indicating an unreachable page.
+- This incident is currently being investigated so that customers can reach the site again as soon as possible.
+- During this investigation, it was found that UDP port 53 was unreachable, although it should commonly be reached.
+- We must now figure out why it is unreachable (potentially due to the server being down or traffic is being blocked)
