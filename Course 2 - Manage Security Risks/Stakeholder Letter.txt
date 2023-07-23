@@ -1,0 +1,34 @@
+TO: IT Manager, stakeholders
+FROM: (Your Name)
+DATE: (Today’s Date)
+SUBJECT: Internal IT audit findings and recommendations
+
+Dear Colleagues,
+
+Please review the following information regarding the Botium Toys internal audit scope,
+goals, critical findings, summary and recommendations.
+
+Scope:
+- Multiple systems are in the scope and will be evaluated for their user permissions, implemented controls, and their current procedures/protocols
+- The 3 evaluates comply with regulations
+- Technology is accounted for for both hardware software
+
+Goals:
+- Comply with NIST CSF
+- Establish policies and fundamentals
+
+Critical Findings:
+- Multiple controls must be customized to meet with the goals in the audit (uniformed regulations). This includes:
+⁃	AV Software
+⁃	Backups
+⁃	CCTV
+⁃	Locks
+⁃	Encryption
+⁃	Passwords and Authentication
+
+Findings:
+- Implemented when possible — not urgent:
+⁃	Time-controlled safe
+⁃	Adequate lighting
+⁃	Locking cabinets
+⁃	Signage indicating alarm service provider

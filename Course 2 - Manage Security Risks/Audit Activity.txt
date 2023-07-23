@@ -1,0 +1,14 @@
+Questions
+---------------------------------------
+
+“What are the biggest risks to the organization?”
+
+The largest risk currently is the lack of security controls set in place.
+
+“Which controls are most essential to implement immediately versus in the future?”
+
+It is important to Identify the potential risks and plan around those to keep business continuity and other effects of the corporation being attacked. Botium Toys must identify these risks and understand the consequences of attacks on them.
+
+“Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.?”
+
+Botium Toys needs to adhere to NIST CIF regulations, particularly the ‘Identify’ function. This will allow them to avoid fines and risk the leaking of data in the future.
